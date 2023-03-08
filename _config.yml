@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "jqing"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Jack Jiaxin Qing"
+  avatar           : "me.jpeg"
+  bio              : "PhD Candidate at Chinese University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jpUlRiYAAAAJ&hl=en"
-  email            :
+  email            :  "jqing@ie.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jqin4749"
   google_plus      :
   keybase          :
   instagram        :
