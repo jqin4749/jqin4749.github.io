@@ -14,7 +14,7 @@ description              : &description "PhD Candidate at Chinese University of 
 url                      : https://jqin4749.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jqin4749/jqin4749.github.io"
-teaser                   :  /images/mstile-144x144.png"
+teaser                   :  "/images/mstile-144x144.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "/images/mstile-144x144.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
