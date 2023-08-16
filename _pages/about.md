@@ -15,7 +15,7 @@ Publications <span style="color:#99999999; font-size: 50%">(* indicates equation
 ======
 
 <span style="font-size: 120%">**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**</span>\
-<font color=#99999999>Zijiao Chen*,</font> **Jiaxin Qing***, <font color=#99999999> Juan Helen Zhou</font>\
+<span style="color:#99999999">Zijiao Chen*,</span> __Jiaxin Qing*__, <span style="color:#99999999"> Juan Helen Zhou</span>\
 *Pre-prints*
 
 We decoded photo-realistic video stimuli from fMRI brain signals.\
@@ -25,8 +25,8 @@ We decoded photo-realistic video stimuli from fMRI brain signals.\
 
 
 ---
-<font size=4>**Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding**</font>\
-<font color=#99999999>Zijiao Chen*,</font> **Jiaxin Qing***, <font color=#99999999>Tiange Xiang, Wan Lin Yue, Juan Helen Zhou</font>\
+<span style="font-size: 120%">***Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding**</span>\
+<span style="color:#99999999">ijiao Chen*,</span> __Jiaxin Qing*__, <span style="color:#99999999">Tiange Xiang, Wan Lin Yue, Juan Helen Zhou</span>\
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
 
 We decoded photo-realistic visual stimuli from fMRI brain signals.\
@@ -35,8 +35,8 @@ We decoded photo-realistic visual stimuli from fMRI brain signals.\
 [code](https://github.com/zjc062/mind-vis)]
 
 ---
-<font size=4>**Performance Analysis and Optimal Design of BATS Code: A Hardware Perspective**</font>\
-**Jiaxin Qing**, <font color=#99999999>Philip HW Leong, and Raymond W. Yeung</font>\
+<span style="font-size: 120%">***Performance Analysis and Optimal Design of BATS Code: A Hardware Perspective**</span>\
+**Jiaxin Qing**, <span style="color:#99999999">Philip HW Leong, and Raymond W. Yeung</span>\
 *IEEE Transactions on Vehicular Technology (TVT), 2023*
 
 Design space analysis of BATS code for FPGA implementation.\
@@ -44,8 +44,8 @@ Design space analysis of BATS code for FPGA implementation.\
 
 
 ---
-<font size=4>**Packet size optimization for batched network coding**</font>\
-<font color=#99999999>Hoover HF Yin, Harry WH Wong, Mehrdad Tahernia</font>, **Jiaxin Qing**\
+<span style="font-size: 120%">***Packet size optimization for batched network coding**</span>\
+<span style="color:#99999999">Hoover HF Yin, Harry WH Wong, Mehrdad Tahernia</span>, **Jiaxin Qing**\
 *IEEE International Symposium on Information Theory (ISIT), 2022*
 
 Optimizing the packet size for batched network coding.\
@@ -53,8 +53,8 @@ Optimizing the packet size for batched network coding.\
 
 
 ---
-<font size=4>**Enhancing the decoding rates of BATS codes by learning with guided information**</font>\
-**Jiaxin Qing**, <font color=#99999999>Hoover HF Yin, and Raymond W. Yeung</font>\
+<span style="font-size: 120%">**Enhancing the decoding rates of BATS codes by learning with guided information**</span>\
+**Jiaxin Qing**, <span style="color:#99999999">Hoover HF Yin, and Raymond W. Yeung</span>\
 *IEEE International Symposium on Information Theory (ISIT), 2022*
 
 Explored the graphical structure of Batched Sparse Codes (BATS) with reinforment learning.\
