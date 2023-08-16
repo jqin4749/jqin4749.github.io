@@ -14,8 +14,9 @@ I am currently a PhD Candidate in the [Department of Information Engineering](ht
 Publications <span style="color:#99999999; font-size: 50%">(* indicates equation contributions)</span>
 ======
 
-<span style="font-size: 120%">**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**</span>\
-<span style="color:#99999999">Zijiao Chen*,</span> __Jiaxin Qing*__, <span style="color:#99999999"> Juan Helen Zhou</span>\
+<span style="font-size: 120%">**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**</span> \
+<span style="color:#99999999">Zijiao Chen*,</span> 
+__Jiaxin Qing*__, <span style="color:#99999999"> Juan Helen Zhou</span> \
 *Pre-prints*
 
 We decoded photo-realistic video stimuli from fMRI brain signals.\
@@ -26,7 +27,7 @@ We decoded photo-realistic video stimuli from fMRI brain signals.\
 
 ---
 <span style="font-size: 120%">***Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding**</span>\
-<span style="color:#99999999">ijiao Chen*,</span> __Jiaxin Qing*__, <span style="color:#99999999">Tiange Xiang, Wan Lin Yue, Juan Helen Zhou</span>\
+<span style="color:#99999999">Zijiao Chen*,</span> __Jiaxin Qing*__, <span style="color:#99999999">Tiange Xiang, Wan Lin Yue, Juan Helen Zhou</span>\
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
 
 We decoded photo-realistic visual stimuli from fMRI brain signals.\
