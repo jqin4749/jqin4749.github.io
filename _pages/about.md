@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honor from The University of Sydney in 2020. During my undergraduate studies, I worked with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html). My research interests are in the area of aritifical intelligence, information theory, and communication system. 
+I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honor from The University of Sydney in 2020. During my undergraduate studies, I worked with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html). 
+
+My research interests are in the area of aritifical intelligence, information theory, and communication system. 
 
 Publications <span style="color:#99999999; font-size: 50%">(* indicates equation contributions)</span>
 ======
@@ -16,6 +18,8 @@ Publications <span style="color:#99999999; font-size: 50%">(* indicates equation
 <span style="font-size: 110%">**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**</span>    
 <span style="color:#99999999">Zijiao Chen\*, </span> __Jiaxin Qing\*__<span style="color:#99999999">, Juan Helen Zhou</span>  
 _Pre-prints_
+
+![flow chart](/images/nips.png "flow chart")
 
 We decoded photo-realistic video stimuli from fMRI brain signals.  
 [[paper](https://arxiv.org/pdf/2305.11675.pdf),
@@ -27,6 +31,8 @@ We decoded photo-realistic video stimuli from fMRI brain signals.
 <span style="font-size: 110%">**Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding**</span>       
 <span style="color:#99999999">Zijiao Chen\*,</span> __Jiaxin Qing\*__, <span style="color:#99999999">Tiange Xiang, Wan Lin Yue, Juan Helen Zhou</span>       
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
+
+![flow chart](/images/cvpr.png "flow chart")
 
 We decoded photo-realistic visual stimuli from fMRI brain signals.  
 [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Seeing_Beyond_the_Brain_Conditional_Diffusion_Model_With_Sparse_Masked_CVPR_2023_paper.pdf),
