@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jack Jiaxin Qing / Personal Site"
+title                    : "Jiaxin Qing"
 title_separator          : "-"
 name                     : &name "Jack Jiaxin Qing (卿佳鑫)"
 description              : &description "PhD Candidate at Chinese University of Hong Kong"
@@ -17,7 +17,7 @@ repository               : "jqin4749/jqin4749.github.io"
 teaser                   :  /images/mstile-144x144.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jack Jiaxin Qing"
+  name             : "Jack Jiaxin Qing (卿佳鑫)"
   avatar           : "me.jpeg"
   bio              : "PhD Candidate at Chinese University of Hong Kong"
   location         : "Hong Kong"
