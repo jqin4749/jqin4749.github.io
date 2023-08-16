@@ -9,14 +9,15 @@ redirect_from:
 ---
 
 I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honor from The University of Sydney in 2020. During my undergraduate studies, I worked with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html). My research interests are in the area of aritifical intelligence, information theory, and communication system. 
- 
+test1 
 
 Publications <span style="color:#99999999; font-size: 50%">(* indicates equation contributions)</span>
 ======
 
 <span style="font-size: 120%">**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**</span> \
 <span style="color:#99999999">Zijiao Chen*,</span> 
-__Jiaxin Qing*__, <span style="color:#99999999"> Juan Helen Zhou</span> \
+__Jiaxin Qing*__, 
+<span style="color:#99999999"> Juan Helen Zhou</span> 
 *Pre-prints*
 
 We decoded photo-realistic video stimuli from fMRI brain signals.\
@@ -26,7 +27,7 @@ We decoded photo-realistic video stimuli from fMRI brain signals.\
 
 
 ---
-<span style="font-size: 120%">***Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding**</span>\
+<span style="font-size: 120%">***Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding**</span> \
 <span style="color:#99999999">Zijiao Chen*,</span> __Jiaxin Qing*__, <span style="color:#99999999">Tiange Xiang, Wan Lin Yue, Juan Helen Zhou</span>\
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023*
 
