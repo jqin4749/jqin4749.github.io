@@ -69,5 +69,6 @@ Explored the graphical structure of Batched Sparse Codes (BATS) with reinforment
 Media Coverage
 ======
 
-- MinD-Vis project was also featured by [**The Telegraph**](https://www.telegraph.co.uk/global-health/science-and-disease/ai-artificial-intelligence-brain-research/) and [**Reuters**](https://www.cnbctv18.com/technology/national-university-of-singapore-researchers-develop-mind-reading-ai-technology-17549301.htm)
-- MinD-Vis project was featured by **NBC News** [[Youtube](https://www.youtube.com/watch?v=TYbRNQ3LxwU)|[Website](https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096)]
+- MinD-Vis project was also covered by [**The Telegraph**](https://www.telegraph.co.uk/global-health/science-and-disease/ai-artificial-intelligence-brain-research/) and [**Reuters**](https://www.cnbctv18.com/technology/national-university-of-singapore-researchers-develop-mind-reading-ai-technology-17549301.htm)
+
+- MinD-Vis project was featured by **NBC News** [[Youtube](https://www.youtube.com/watch?v=TYbRNQ3LxwU),[Website](https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096)]
