@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaxin Qing"
+title: "About me"
 excerpt: "Jiaxin Qing"
 author_profile: true
 redirect_from: 
