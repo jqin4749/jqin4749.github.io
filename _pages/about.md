@@ -17,7 +17,7 @@ Publications <span style="color:#99999999; font-size: 50%">(* indicates equation
 
 <span style="font-size: 110%">**Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity**</span>    
 <span style="color:#99999999">Zijiao Chen\*, </span> __Jiaxin Qing\*__<span style="color:#99999999">, Juan Helen Zhou</span>  
-_Pre-prints_
+*Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS), 2023 (Oral)*
 
 ![flow chart](/images/nips.png "flow chart")
 
@@ -68,6 +68,7 @@ Explored the graphical structure of Batched Sparse Codes (BATS) with reinforment
 
 News
 ======
+- [Sep 22, 2023] The Mind-Video paper was accepted by NeurIPS2023 for Oral Presentation!
 
 - [Aug, 2023] MinD-Vis project was also covered by [**The Telegraph**](https://www.telegraph.co.uk/global-health/science-and-disease/ai-artificial-intelligence-brain-research/) and [**Reuters**](https://www.cnbctv18.com/technology/national-university-of-singapore-researchers-develop-mind-reading-ai-technology-17549301.htm)
 
