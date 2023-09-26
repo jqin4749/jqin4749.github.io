@@ -68,8 +68,8 @@ Explored the graphical structure of Batched Sparse Codes (BATS) with reinforment
 
 News
 ======
-- [Sep 22, 2023] The Mind-Video paper was accepted by NeurIPS2023 for Oral Presentation!
+- [Sep 22, 2023] The Mind-Video paper was accepted by NeurIPS2023 for **Oral Presentation**!
 
-- [Aug, 2023] MinD-Vis project was also covered by [**The Telegraph**](https://www.telegraph.co.uk/global-health/science-and-disease/ai-artificial-intelligence-brain-research/) and [**Reuters**](https://www.cnbctv18.com/technology/national-university-of-singapore-researchers-develop-mind-reading-ai-technology-17549301.htm)
+- [Aug, 2023] MinD-Vis project was also covered by [**The Telegraph**](https://www.telegraph.co.uk/global-health/science-and-disease/ai-artificial-intelligence-brain-research/), [**Reuters**](https://www.cnbctv18.com/technology/national-university-of-singapore-researchers-develop-mind-reading-ai-technology-17549301.htm) and [**South China Morning Post**](https://www.youtube.com/watch?v=2PS8MyEODn0)
 
 - [May, 2023] MinD-Vis project was featured by **NBC News** [[Youtube](https://www.youtube.com/watch?v=TYbRNQ3LxwU),[Website](https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096)]
