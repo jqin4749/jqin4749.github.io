@@ -10,7 +10,8 @@ redirect_from:
 
 I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honor from The University of Sydney in 2020. During my undergraduate studies, I worked with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html). 
 
-My research interests are in the area of artificial intelligence, information theory, and high performance computing. 
+I have been a reviewer for CVPR, ECCV, ACM MM and AAAI. 
+My research interests are in the area of representation learning in complex systems, artificial intelligence, information theory and high-performance computing. 
 
 Publications <span style="color:#99999999; font-size: 50%">(* indicates equation contributions)</span>
 ======
@@ -68,6 +69,8 @@ Explored the graphical structure of Batched Sparse Codes (BATS) with reinforment
 
 News
 ======
+- I will be graduing in late 2024 and I am looking for postdoc positions! 
+
 - [Sep 22, 2023] The Mind-Video paper was accepted by NeurIPS2023 for **Oral Presentation**!
 
 - [Aug, 2023] MinD-Vis project was also covered by [**The Telegraph**](https://www.telegraph.co.uk/global-health/science-and-disease/ai-artificial-intelligence-brain-research/), [**Reuters**](https://www.cnbctv18.com/technology/national-university-of-singapore-researchers-develop-mind-reading-ai-technology-17549301.htm) and [**South China Morning Post**](https://www.youtube.com/watch?v=2PS8MyEODn0)
