@@ -13,6 +13,19 @@ I am currently a PhD Candidate in the [Department of Information Engineering](ht
 I have been a reviewer for NeurIPS, CVPR, ECCV, ACM MM and AAAI. 
 My research focus on learning and modelling complex systems with AI. I am particularly interested in finding the underlying representation of data and solving real-world problems with interdisciplinary knowledge. 
 
+
+News
+======
+- I will be graduing in late 2024 and I am looking for postdoc positions! 
+
+- [Sep 22, 2023] The Mind-Video paper was accepted by NeurIPS2023 for **Oral Presentation**!
+
+- [Aug, 2023] MinD-Vis project was also covered by [**The Telegraph**](https://www.telegraph.co.uk/global-health/science-and-disease/ai-artificial-intelligence-brain-research/), [**Reuters**](https://www.cnbctv18.com/technology/national-university-of-singapore-researchers-develop-mind-reading-ai-technology-17549301.htm) and [**South China Morning Post**](https://www.youtube.com/watch?v=2PS8MyEODn0)
+
+- [May, 2023] MinD-Vis project was featured by **NBC News** [[Youtube](https://www.youtube.com/watch?v=TYbRNQ3LxwU),[Website](https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096)]
+
+
+
 Publications <span style="color:#99999999; font-size: 50%">(* indicates equation contributions)</span>
 ======
 
@@ -67,12 +80,3 @@ Explored the graphical structure of Batched Sparse Codes (BATS) with reinforment
 [[paper](https://ieeexplore.ieee.org/abstract/document/9834581)]
 
 
-News
-======
-- I will be graduing in late 2024 and I am looking for postdoc positions! 
-
-- [Sep 22, 2023] The Mind-Video paper was accepted by NeurIPS2023 for **Oral Presentation**!
-
-- [Aug, 2023] MinD-Vis project was also covered by [**The Telegraph**](https://www.telegraph.co.uk/global-health/science-and-disease/ai-artificial-intelligence-brain-research/), [**Reuters**](https://www.cnbctv18.com/technology/national-university-of-singapore-researchers-develop-mind-reading-ai-technology-17549301.htm) and [**South China Morning Post**](https://www.youtube.com/watch?v=2PS8MyEODn0)
-
-- [May, 2023] MinD-Vis project was featured by **NBC News** [[Youtube](https://www.youtube.com/watch?v=TYbRNQ3LxwU),[Website](https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096)]
