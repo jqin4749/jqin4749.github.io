@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honor from The University of Sydney in 2020. During my undergraduate studies, I worked with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html). 
+I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honors from The University of Sydney in 2020. During my undergraduate studies, I worked with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html). 
 
-I have been a reviewer for NeurIPS, CVPR, ECCV, ACM MM and AAAI. 
-My research focus on learning and modelling complex systems with AI. I am particularly interested in finding the underlying representation of data and solving real-world problems with interdisciplinary knowledge. 
+I have been a reviewer for NeurIPS, CVPR, ECCV, ACM MM, and AAAI. 
+My research focuses on learning and modeling complex systems with AI. I am particularly interested in finding the underlying representation of data and solving realhttps://github.com/jqin4749/jqin4749.github.io/blob/main/_pages/about.md-world problems with interdisciplinary knowledge. 
 
 
 News
 ======
-- I will be graduing in late 2024 and I am looking for postdoc positions! 
+- I will graduate in late 2024 and am looking for postdoc positions! 
 
 - [Sep 22, 2023] The Mind-Video paper was accepted by NeurIPS2023 for **Oral Presentation**!
 
