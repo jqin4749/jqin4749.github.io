@@ -30,7 +30,7 @@ Publications <span style="color:#99999999; font-size: 50%">(* indicates equation
 ======
 <span style="font-size: 110%">**Dependence Analysis and Structured Construction for Batched Sparse Code**</span>   
 **Jiaxin Qing**, <span style="color:#99999999">Xiaohong Cai, Yijun Fan, Mingyang Zhu and Raymond W. Yeung</span>  
-*arXiv preprint*
+*arXiv preprint, 2024*
 
 First step towards hardware-friendly Batched Sparse Codes (BATS).  
 [[paper](https://arxiv.org/abs/2406.18017)]
