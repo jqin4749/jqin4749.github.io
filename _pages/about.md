@@ -34,7 +34,7 @@ Publications <span style="color:#99999999; font-size: 50%">(* indicates equation
 **Jiaxin Qing**, <span style="color:#99999999">Philip H.W. Leong and Raymond W. Yeung</span>  
 *under review, 2024*
 
-A scalable and high-performant BATS code accelerator based on FPGA. An optimized finite-file multiplier is proposed to reduce the resource consumption significantly.
+A scalable and high-performant BATS code accelerator based on FPGA with an optimized finite field multiplier.  
 [[paper](https://arxiv.org/abs/2406.18017)]
 
 
