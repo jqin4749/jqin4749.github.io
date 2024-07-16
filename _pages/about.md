@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honors from The University of Sydney in 2020. During my undergraduate studies, I worked with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html) on perturbation based neural network on-chip training. 
+I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am fortunate to be advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honors from The University of Sydney in 2020. During my undergraduate studies, I was fortunate to work with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html) on perturbation-based neural network on-chip training. 
 
 I have been a reviewer for NeurIPS, CVPR, ECCV, ACM MM, and AAAI. 
-My research focuses on learning and modeling complex systems with AI. I am particularly interested in finding the underlying representation of data and solving real world problems with interdisciplinary knowledge. 
+My research focuses on learning and modeling complex systems with AI. I am particularly interested in finding the underlying representation of data and solving real-world problems with interdisciplinary knowledge. 
 
 
 News
 ======
-- I will graduate in late 2024 and am looking for postdoc positions! 
+- I will graduate in late 2024 and am looking for postdoc positions!
+
+- [July 16, 2024] The structured BATS code paper is accepted by IEEE Transactions on Communications (TCOM)
 
 - [Sep 22, 2023] The Mind-Video paper was accepted by NeurIPS2023 for **Oral Presentation**!
 
@@ -28,9 +30,18 @@ News
 
 Publications <span style="color:#99999999; font-size: 50%">(* indicates equation contributions)</span>
 ======
+<span style="font-size: 110%">**Towards High-Performance Network Coding: Parallel Construction With Subfield Generators**</span>   
+**Jiaxin Qing**, <span style="color:#99999999">Philip H.W. Leong and Raymond W. Yeung</span>  
+*under review, 2024*
+
+A scalable and high-performant BATS code accelerator based on FPGA. An optimized finite-file multiplier is proposed to reduce the resource consumption significantly.
+[[paper](https://arxiv.org/abs/2406.18017)]
+
+
+---
 <span style="font-size: 110%">**Dependence Analysis and Structured Construction for Batched Sparse Code**</span>   
 **Jiaxin Qing**, <span style="color:#99999999">Xiaohong Cai, Yijun Fan, Mingyang Zhu and Raymond W. Yeung</span>  
-*arXiv preprint, 2024*
+*IEEE Transactions on Communications (TCOM), 2024*
 
 First step towards hardware-friendly Batched Sparse Codes (BATS).  
 [[paper](https://arxiv.org/abs/2406.18017)]
@@ -84,7 +95,7 @@ Optimizing the packet size for batched network coding.
 **Jiaxin Qing**, <span style="color:#99999999">Hoover HF Yin, and Raymond W. Yeung</span>  
 *IEEE International Symposium on Information Theory (ISIT), 2022*
 
-Explored the graphical structure of Batched Sparse Codes (BATS) with reinforment learning.   
+Explored the graphical structure of Batched Sparse Codes (BATS) with reinforcement learning.   
 [[paper](https://ieeexplore.ieee.org/abstract/document/9834581)]
 
 
