@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am fortunate to be advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honors from The University of Sydney in 2020. During my undergraduate studies, I was fortunate to work with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html) on perturbation-based neural network on-chip training. 
 
-I have been a reviewer for NeurIPS, CVPR, ECCV, ACM MM, and AAAI. 
+I have been a reviewer for NeurIPS, CVPR, ECCV, ICLR, ACM MM, and AAAI. 
 My research focuses on learning and modeling complex systems with AI. I am particularly interested in finding the underlying representation of data and solving real-world problems with interdisciplinary knowledge. 
 
 
