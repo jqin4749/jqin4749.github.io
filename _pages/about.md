@@ -16,6 +16,7 @@ My research focuses on learning and modeling complex systems with AI. I am parti
 
 News
 ======
+- I am selected as an Outstanding Reviwer for ECCV2024. The complete list can be found [here](https://eccv.ecva.net/Conferences/2024/Reviewers).
 - I will graduate in late 2024 and am looking for postdoc positions!
 
 - [July 16, 2024] The structured BATS code paper is accepted by IEEE Transactions on Communications (TCOM)
