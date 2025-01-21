@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a PhD Candidate in the [Department of Information Engineering](https://www.ie.cuhk.edu.hk/) at The Chinese University of Hong Kong, where I am fortunate to be advised by [Prof. Raymond Yeung](https://www.ie.cuhk.edu.hk/faculty/yeung-wai-ho-raymond/). I received my Bachelor's degree in Electrical Engineering with First Class Honors from The University of Sydney in 2020. During my undergraduate studies, I was fortunate to work with [Prof. Philip Leong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/philip-leong.html) on perturbation-based neural network on-chip training. 
 
-I have been a reviewer for NeurIPS, CVPR, ECCV, ICLR, ACM MM, and AAAI. 
+I have been a reviewer for NeurIPS, CVPR, ECCV, ICLR, ICML, ACM MM, AISTATS and AAAI. 
 My research focuses on learning and modeling complex systems with AI. I am particularly interested in finding the underlying representation of data and solving real-world problems with interdisciplinary knowledge. 
 
 
@@ -31,12 +31,12 @@ News
 
 Publications <span style="color:#99999999; font-size: 50%">(* indicates equation contributions)</span>
 ======
-<span style="font-size: 110%">**Towards High-Performance Network Coding: Parallel Construction With Subfield Generators**</span>   
-**Jiaxin Qing**, <span style="color:#99999999">Philip H.W. Leong and Raymond W. Yeung</span>  
+<span style="font-size: 110%">**Towards High-Performance Network Coding: FPGA Acceleration With Bounded-value Generators**</span>   
+**Jiaxin Qing**, <span style="color:#99999999">Philip H.W. Leong, Kin Hong Lee and Raymond W. Yeung</span>  
 *under review, 2024*
 
 A scalable and high-performant BATS code accelerator based on FPGA with an optimized finite field multiplier.  
-[[paper](https://arxiv.org/abs/2406.18017)]
+[[paper](https://arxiv.org/abs/2501.05033)]
 
 
 ---
@@ -45,7 +45,7 @@ A scalable and high-performant BATS code accelerator based on FPGA with an optim
 *IEEE Transactions on Communications (TCOM), 2024*
 
 First step towards hardware-friendly Batched Sparse Codes (BATS).  
-[[paper](https://arxiv.org/abs/2406.18017)]
+[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10606541)]
 
 
 ---
